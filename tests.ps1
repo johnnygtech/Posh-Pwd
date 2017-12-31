@@ -1,3 +1,5 @@
+. ./functions.ps1
+
 $stringToSalt = "password"
 
 #When you have to hash a NEW string
