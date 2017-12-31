@@ -42,6 +42,6 @@ $obj
 $testone
 $obj2
 $testtwo
-Compare-Object $testone $testtwo
+Compare-Object $testone.hash $testtwo.hash
 
 
