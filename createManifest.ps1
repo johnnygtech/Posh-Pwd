@@ -1,0 +1,1 @@
+New-ModuleManifest -Path ./Posh-Pwd.psd1 -Author "John Allen Gleason" -RootModule ./Posh-Pwd.psm1 -Description "A simple implementationof RFC2898 PFKDF2 in powershell." -ProjectUri https://github.com/johnnygtech/Posh-Pwd
